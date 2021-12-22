@@ -1,1 +1,176 @@
-<mxfile host="app.diagrams.net" modified="2021-12-22T14:26:22.050Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="H4nOlqKSmuNeN5bcK_HW" version="16.0.3" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7Zpbd9o4EIB/DefsPmyOLWMDj4Ek3XTbbnbJNs3THmELUCtbRJYD5NevZMtXidywabo0D8EaWbLRzHyaGdFzJuHmHYOr5UcaINIDVrDpOWc9AGzbAuJDSraZxLOHmWDBcKBuKgVT/ICU0FLSBAcort3IKSUcr+pCn0YR8nlNBhmj6/ptc0rqT13BBdIEUx8SXXqDA77MpEMwKOW/I7xY5k+2vVHWE8L8ZvVN4iUM6Loics57zoRRyrOrcDNBRC5evi43l9sb8uGb9+79X/Ed/Gf8x/Wnz79lk128ZEjxFRiK+Kunjv69JXez0cNFeL/2319DbF1/VUOse0gStV494BHxkPGMiauFvHqO5DLqTZze6ZmPqVosvs01IF5DKFs0xkseEiGzxaVYzJXsjzlkfMohl/1zTMiEEsrSgY6V/smbOaPfUKVnPlc96vUR42jT0PcTi2UXGhSmj2iIONuKcZu69eZGr5rr0oIcJVpWjCeXQWWzi2LeUi/iQqnmBWqyDWpqrnIgzF41KeNLuqARJOeltLr6csGw8JFTgheRkM0o5zQUHSgKTqXTyUlWKMokyqmHj2qC0SQKkPwSpV7kO9W0EtOE+ehpe3ye9gRJIFsg/sh8wKxlhgjk+L7+ciatqaFXFIvXKazDGY1q5mFbDcVn76VGNXRfvMbrzQFo5vA3ggQ/wNQJB+l/h0poI/GP0AWOxCedMbyAXPaOHYZhts7y4y6B5C5BwputJE7S4TbDxQSiW/WqLpQNkn0w4eknTaQ6GAwxl80Voz6KYxprdlraiTTE9VLcP13B1CjWYgeq2ylkvjK+vrSqOY24iQ8NbszFn/99uOHVuQF0btiuARy23RU5nGMhB2iZHP3DkGN4WHL0d+/3+VZ+xSinvtBT3iMeNKvs/DCUThrNYvkxgQEUmpU8SEIJCDUmKWZDAQ6qUyXlVEdFhuegARjQ0O+KDO6xkKHfMhlGByFDYSAHIsNIM4crFN8lOIa73To2+/XEOILRr4jLIVlQ8QHh3aPTaEKbQgzZ8UQLbXDMhXpRnKaSEkUcURmyxChEZAmjNCyBMqbJkWT5Cl4BPTkyGPWdOoxcjUXFk6osGnSW35jy0DcNI7H6bPtFNk7cvHlb7Tvb1FrbPSE2ahli9g4DaZlizoEpZuuZ8nnki6wkWkqOpe6vUhNx+UuBgh4Yp2TIiPdrmRpV6VdEQWM8I5hy5ENzjHRULPGsOkuKZLhKE9tAk84iG1vPj3/SxOgm7eHE6QQnA8v7rkGRbUqfH4GBZeIBQwusciSaLomPZjgU654WWGilWnJs5HCGJ3nokcPD00MR2+mfuDo+3M7wYUqS3zQ+Xo0Bp20MeJ1gwB01tpjRgTHgaRZRSY7EQxGL5BVKM5G8tUrzDyK9n2iV2WpaclRO3+83dOmaPN5QCOku+Rj8aP5ehAt2LVgoY4e2wwWvbU50U0PRbOvQnNCLKCL7EC7J0oLG0yhwLnQaLGk4S+KnSfB2XBwMG2ow1BeKE4/aMUhnB6hALzB8KjSwj69D5eMEzfmb3urbLiCAHQckygbyefb0aHvYrJq7B/VooNcTppcfOzUZTlf/S3sBh7AXp1HYdA59Mq+XHk4jtIHPCwRVffpIs8HGpuENTgzbhvGIzN1tJvvtGj/c6XlZSKpHhuCp0BBtMK8UoETrNo8vxXU5SDb2DSfzVex8L9oTJqAJE/fAm49eiHikmP1YwXqazGLkMyReOP3dT3oCd5qdxv05xz6GtZO1Yy1lA69ejQIjvZRt9w0Eav6Koz0CHc0pPWj7mB50U4tqlKI01XfNBL0U9Vpvr/2Q52fh+iU1LLcZZRoilZGBE6+oWYtm+RPzzIrKH+o75/8B</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-22T17:14:07.978Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="-MjelzFNVHBr8UOMcD3s" version="16.0.3" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1102" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="n_Ylqb9zFmvwcJTai0Tj-0" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;Início" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="10" y="60" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n_Ylqb9zFmvwcJTai0Tj-1" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n_Ylqb9zFmvwcJTai0Tj-0" target="n_Ylqb9zFmvwcJTai0Tj-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="399" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n_Ylqb9zFmvwcJTai0Tj-2" value="Realização de login obrigatória para qualquer usuário de quaquer área que autue ou tramite processos" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="60" y="20" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="n_Ylqb9zFmvwcJTai0Tj-3" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n_Ylqb9zFmvwcJTai0Tj-2" target="n_Ylqb9zFmvwcJTai0Tj-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="399" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n_Ylqb9zFmvwcJTai0Tj-4" value="&lt;b&gt;Protocolo&lt;/b&gt;&amp;nbsp;Cadastra um &lt;u&gt;Pedido&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="260" y="20" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="n_Ylqb9zFmvwcJTai0Tj-5" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n_Ylqb9zFmvwcJTai0Tj-4" target="n_Ylqb9zFmvwcJTai0Tj-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="399" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n_Ylqb9zFmvwcJTai0Tj-9" value="Pesquisa &lt;u&gt;Pedidos&lt;/u&gt;, &lt;u&gt;Projetos de Lei&lt;/u&gt;, ou &lt;u&gt;Leis&lt;/u&gt; existentes com teor semelhante ao Pedido cadastrado." style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="430" y="5" width="221" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="n_Ylqb9zFmvwcJTai0Tj-10" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n_Ylqb9zFmvwcJTai0Tj-9" target="n_Ylqb9zFmvwcJTai0Tj-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="399" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n_Ylqb9zFmvwcJTai0Tj-11" value="Encaminha o Processo (Pedido + Pesquisa) para a &lt;b&gt;Biblioteca&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="600" y="100" width="211" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="n_Ylqb9zFmvwcJTai0Tj-12" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n_Ylqb9zFmvwcJTai0Tj-11" target="n_Ylqb9zFmvwcJTai0Tj-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="706" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n_Ylqb9zFmvwcJTai0Tj-13" value="&lt;b&gt;Biblioteca &lt;/b&gt;registra o recebimento do processo" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="638.25" y="165" width="134.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="n_Ylqb9zFmvwcJTai0Tj-14" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n_Ylqb9zFmvwcJTai0Tj-13" target="n_Ylqb9zFmvwcJTai0Tj-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n_Ylqb9zFmvwcJTai0Tj-16" value="Pesquisa interna e externa por legislação semelhante" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="440" y="155" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="n_Ylqb9zFmvwcJTai0Tj-17" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n_Ylqb9zFmvwcJTai0Tj-16" target="n_Ylqb9zFmvwcJTai0Tj-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n_Ylqb9zFmvwcJTai0Tj-19" value="Encontrou legislação semelhante?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="280" y="125" width="110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="n_Ylqb9zFmvwcJTai0Tj-20" value="Não" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n_Ylqb9zFmvwcJTai0Tj-19" target="n_Ylqb9zFmvwcJTai0Tj-24" edge="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="180" y="205" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n_Ylqb9zFmvwcJTai0Tj-21" value="SIM" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n_Ylqb9zFmvwcJTai0Tj-19" target="n_Ylqb9zFmvwcJTai0Tj-22" edge="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="330" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n_Ylqb9zFmvwcJTai0Tj-22" value="Anexa legislação semelhante ao Processo" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="60" y="167.5" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="n_Ylqb9zFmvwcJTai0Tj-23" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n_Ylqb9zFmvwcJTai0Tj-22" target="n_Ylqb9zFmvwcJTai0Tj-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="355" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n_Ylqb9zFmvwcJTai0Tj-24" value="Encaminha o Processo para a &lt;b&gt;Subsecretaria de Atos Oficiais&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="265" y="290" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="n_Ylqb9zFmvwcJTai0Tj-25" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n_Ylqb9zFmvwcJTai0Tj-24" target="n_Ylqb9zFmvwcJTai0Tj-26" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n_Ylqb9zFmvwcJTai0Tj-26" value="&lt;b&gt;Subsecretaria de Atos Oficiais&amp;nbsp;&lt;/b&gt;registra o recebimento do processo" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="450" y="305" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IZwHUDYRomyk0nwul4i_-0" value="Analisa as pesquisas anexadas" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="691" y="310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IZwHUDYRomyk0nwul4i_-1" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="IZwHUDYRomyk0nwul4i_-0" parent="WIyWlLk6GJQsqaUBKTNV-1" target="IZwHUDYRomyk0nwul4i_-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="751" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IZwHUDYRomyk0nwul4i_-4" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n_Ylqb9zFmvwcJTai0Tj-26" target="IZwHUDYRomyk0nwul4i_-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="355" as="targetPoint" />
+            <mxPoint x="660" y="315" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="680" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IZwHUDYRomyk0nwul4i_-5" value="Necessita acrescentar algo?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="705.5" y="390" width="91" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="IZwHUDYRomyk0nwul4i_-6" value="NÃO" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="IZwHUDYRomyk0nwul4i_-5" parent="WIyWlLk6GJQsqaUBKTNV-1" target="IZwHUDYRomyk0nwul4i_-11">
+          <mxGeometry x="-0.6" y="-5" relative="1" as="geometry">
+            <mxPoint x="640" y="440" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IZwHUDYRomyk0nwul4i_-7" value="SIM" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" source="IZwHUDYRomyk0nwul4i_-5" parent="WIyWlLk6GJQsqaUBKTNV-1" target="IZwHUDYRomyk0nwul4i_-9">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="751" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IZwHUDYRomyk0nwul4i_-9" value="Anexa novos &lt;u&gt;documentos &lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;(?)&lt;/font&gt;&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="500" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IZwHUDYRomyk0nwul4i_-10" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" source="IZwHUDYRomyk0nwul4i_-9" parent="WIyWlLk6GJQsqaUBKTNV-1" target="IZwHUDYRomyk0nwul4i_-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IZwHUDYRomyk0nwul4i_-11" value="Encaminha o Processo para a &lt;b&gt;Secretaria Geral&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="498.25" y="400" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IZwHUDYRomyk0nwul4i_-12" value="&lt;b&gt;Secretaria Geral&amp;nbsp;&lt;/b&gt;registra o recebimento do processo" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="270" y="415" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IZwHUDYRomyk0nwul4i_-14" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IZwHUDYRomyk0nwul4i_-11" target="IZwHUDYRomyk0nwul4i_-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="495" y="500" as="targetPoint" />
+            <mxPoint x="450" y="500" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IZwHUDYRomyk0nwul4i_-15" value="Atribui análise do pedido para um Procurador dentro da Procuradoria Legislativa (SEM PRAZO)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="390" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="IZwHUDYRomyk0nwul4i_-20" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IZwHUDYRomyk0nwul4i_-12" target="IZwHUDYRomyk0nwul4i_-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="227" y="440" as="targetPoint" />
+            <mxPoint x="265" y="439.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IZwHUDYRomyk0nwul4i_-24" value="Encaminha o Processo para a &lt;b&gt;Procuradoria Legislativa&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="75" y="530" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IZwHUDYRomyk0nwul4i_-25" value="&lt;b&gt;Procurador &lt;/b&gt;em&lt;b&gt; Procuradoria Legislativa&amp;nbsp;&lt;/b&gt;registra o recebimento do processo" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="545" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IZwHUDYRomyk0nwul4i_-27" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IZwHUDYRomyk0nwul4i_-15" target="IZwHUDYRomyk0nwul4i_-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="145" y="520" as="targetPoint" />
+            <mxPoint x="165" y="519.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IZwHUDYRomyk0nwul4i_-28" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IZwHUDYRomyk0nwul4i_-24" target="IZwHUDYRomyk0nwul4i_-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="460" as="targetPoint" />
+            <mxPoint x="290" y="460" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
